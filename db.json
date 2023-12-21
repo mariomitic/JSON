@@ -1,6 +1,6 @@
 
 {
-  "plannerData": [
+  "plannerData": 
 {
   "accountlist": [
     {
@@ -1750,5 +1750,5 @@
   ],
   "daily": []
 }
-]
+
 }
