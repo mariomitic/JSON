@@ -1,6 +1,6 @@
 
 {
-  "plannerData": 
+  "plannerData": [
 {
   "accountlist": [
     {
@@ -17,7 +17,6 @@
     }
   ]
 },
-
 {
   "recipes": [
     {
@@ -1750,10 +1749,10 @@
       ],
       "id": 97
     }
-  ],
+  ]
 },
 {
   "daily": []
 }
 
-}
+]}
