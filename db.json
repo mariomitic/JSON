@@ -15,7 +15,10 @@
       "email": "",
       "id": 2
     }
-  ],
+  ]
+},
+
+{
   "recipes": [
     {
       "name": "enchilada sauce",
@@ -1748,6 +1751,8 @@
       "id": 97
     }
   ],
+},
+{
   "daily": []
 }
 
