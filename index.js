@@ -10,11 +10,11 @@ router.db._.assign(db_accountlist);
 
 const router2 = jsonServer.router();
 const db_recipes = require("./db_recipes.json");
-router.db._.assign(db_recipes);
+router2.db._.assign(db_recipes);
 
 const router3 = jsonServer.router();
 const db_daily = require("./db_daily.json");
-router.db._.assign(db_daily);
+router3.db._.assign(db_daily);
 
 server.use("/data1", router);
 server.use("/data2", router2);
